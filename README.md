@@ -1,6 +1,6 @@
 # CS325_-
 
-#This is a readme file
+# This is a readme file
 
 
 ## print("Hello CS325")
