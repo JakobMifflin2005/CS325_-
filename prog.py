@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-i = 27
-=======
 i = 17
->>>>>>> refs/remotes/origin/main
-j = 10
+j = 100
 
 print(i+j)
 
